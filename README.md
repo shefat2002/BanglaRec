@@ -2,6 +2,20 @@
 
 A Flask web application for predicting Bangla handwritten characters using deep learning models.
 
+## App UI Screenshots
+
+Below are screenshots of the Bangla Handwritten Character Recognition Web App:
+
+<p align="center">
+    <img src="static/img/SS1.png" alt="Homepage" width="600"/>
+</p>
+<p align="center">
+    <img src="static/img/SS2.png" alt="Prediction Screen1" width="500"/>
+</p>
+<p align="center">
+    <img src="static/img/SS3.png" alt="Prediction Screen2" width="500"/>
+</p>
+
 ## Features
 
 - **Multiple Models**: Choose between CNN, ResNet50, and DenseNet121
