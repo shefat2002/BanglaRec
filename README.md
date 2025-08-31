@@ -7,13 +7,13 @@ A Flask web application for predicting Bangla handwritten characters using deep 
 Below are screenshots of the Bangla Handwritten Character Recognition Web App:
 
 <p align="center">
-    <img src="static/img/SS1.png" alt="Homepage" width="600"/>
+    <img src="static/img/SS1.png" alt="Homepage" width="800"/>
 </p>
 <p align="center">
-    <img src="static/img/SS2.png" alt="Prediction Screen1" width="500"/>
+    <img src="static/img/SS2.png" alt="Prediction Screen1" width="800"/>
 </p>
 <p align="center">
-    <img src="static/img/SS3.png" alt="Prediction Screen2" width="500"/>
+    <img src="static/img/SS3.png" alt="Prediction Screen2" width="800"/>
 </p>
 
 ## Features
